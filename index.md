@@ -1,5 +1,8 @@
 ---
 layout: default
+title: "First Page of the example"
+date: 2020-05-24 18:11:11 -0000
+categories: pages playground
 ---
 
 ## Duis autem 
