@@ -50,6 +50,7 @@ p {
 .nav {
     grid-area: nav;
     display: inline-block;
+    
 
     h1 {
         font-size: 2em;
@@ -63,7 +64,11 @@ p {
 .footer {
     grid-area: footer;
     display: inline-block;
-
+    font-size: 85%;
+    line-height: 1.8em;
+    padding-bottom: 0;
+    color: #555;
+    font-weight: normal;
     h1 {
         font-size: 2em;
         margin-bottom: 1em;
